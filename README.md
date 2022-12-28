@@ -6,6 +6,7 @@
   * Machine Learning/Deep learning projects
   * Data Analyst
 - 🌱 I’m currently learning Rust and I :heart: it!
+- Love Manga, Boardgame 🎲, Alcohol🍸 and Nigiri 🍣 .
 
 ## Experienced with...
 Python, Rust, Javascript, SQL, C/C++, Java
