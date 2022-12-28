@@ -12,9 +12,13 @@ Python, Rust, Javascript, SQL, C/C++, Java
 
 ## Tools
 Pytorch, Tensorflow, Flask
+
 ReactJs, Vite, NextJS, ChakraUI, TailwindCSS
+
 PostgreSQL
+
 Docker, Git
+
 VS Code, NeoVim
 
 ## Communication
@@ -23,9 +27,13 @@ VS Code, NeoVim
 
 ## Contact me
 Github:
+
 Dev:
+
 Linkedin:
+
 Facebook:
+
 Gmail: quocnguyenanh96@gmail.com
 
 <!--
